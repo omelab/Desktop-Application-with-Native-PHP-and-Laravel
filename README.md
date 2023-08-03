@@ -2,4 +2,5 @@
 
 ## Help
 
-[Ander Madarang tutorials](https://www.youtube.com/watch?v=TY21MRVNxSo)
+[Native PHP documentation](https://nativephp.com/)
+[Tutorials](https://www.youtube.com/watch?v=TY21MRVNxSo)
